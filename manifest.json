@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Steem Upvote Bot",
-  "short_name": "SteemBot",
+  "name": "Golos Upvote Bot",
+  "short_name": "GolosBot",
   "description": "Automatic upvoting of new content",
   "version": "0.3",
   "background": {
@@ -11,7 +11,7 @@
     "default_icon": "steem128.png"
   },
   "permissions": [
-    "tabs", "https://steemit.com/*", "storage"
+    "tabs", "https://golos.io/*", "storage"
   ],
   "options_page": "options.html",
   "icons": {
