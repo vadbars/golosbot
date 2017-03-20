@@ -1,5 +1,5 @@
 # golosbot
-Simple chrome extension that upvotes the best contents when you go to golos.io/created/ for you. It helps get as many curation rewards as possible on your favorite social network.
+DON't WORK NOW! Simple chrome extension that upvotes the best contents when you go to golos.io/created/ for you. It helps get as many curation rewards as possible on your favorite social network.
 
 Just install/enable the extension in chrome, go to steemit.com and login on an account. Finally just visit:
 ```
